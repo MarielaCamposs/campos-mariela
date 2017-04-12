@@ -1,0 +1,19 @@
+/*aca pondre mis ajustes*/
+body {background: white;padding-top: 50px;}
+header {background-color: white}
+section,aside,footer {background-color: rgba(72, 211, 174, 0.4)}
+article {font-family:'Quicksand', sans-serif; font-size: 20}
+h1 {font-family:'Quicksand', bold ; font-size: 40}
+h2 {font-family:'Quicksand', bold ; font-size: 30}
+article{padding-left: 50px; padding-right: 50px}
+article figure{
+  margin-right:1em;
+  margin-bottom:1em;
+  margin-top:1em;
+  float:left;
+  width:45%;
+  height:auto;
+  overflow: hidden;}
+  footer {background-color: white}
+
+  aside {padding-left: 50px;background-color: white}
